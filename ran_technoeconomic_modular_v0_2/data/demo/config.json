@@ -1,0 +1,16 @@
+{
+  "start_year": 2026,
+  "end_year": 2040,
+  "discount_rate": 0.04,
+  "new_site_year_fraction": 0.5,
+  "retired_site_year_fraction": 0.5,
+  "currency_price_basis": "2026 EUR (illustrative constant-price assumption)",
+  "data_quality": "SYNTHETIC DEMONSTRATION DATA ONLY — NOT ORANGE PARAMETERS",
+  "sensitivity_discount_rates": [
+    0.0,
+    0.02,
+    0.04,
+    0.06,
+    0.08
+  ]
+}

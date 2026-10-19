@@ -1,0 +1,9 @@
+{
+  "scenarios": [
+    {"id": "BAU", "description": "Business-as-usual; example deployment trajectory"},
+    {"id": "SOBRIETY", "description": "Sobriety scenario; provisional example label"},
+    {"id": "DENSIFICATION", "description": "Densification scenario; provisional example label"},
+    {"id": "CONSTRAINED", "description": "Constrained pathway; provisional example label"}
+  ],
+  "note": "Descriptions are metadata. Actual differences are defined by dimensioning.csv. SYNTHETIC TEST DATA ONLY."
+}

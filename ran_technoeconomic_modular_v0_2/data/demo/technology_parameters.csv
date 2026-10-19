@@ -1,0 +1,4 @@
+site_type,technology,average_power_kw_per_site,capex_eur_per_new_site,capex_eur_per_replacement_site,fixed_opex_eur_per_active_site_year_excl_energy,embodied_kgco2e_per_new_site,embodied_kgco2e_per_replacement_site,eol_eur_per_removed_site,eol_kgco2e_per_removed_site
+macro,illustrative_macro_tech,2.0,150000,85000,8000,40000,20000,4000,2000
+micro,illustrative_micro_tech,0.5,45000,25000,2500,12000,6000,1200,700
+indoor,illustrative_indoor_tech,0.2,15000,9000,1200,4500,2000,500,250
